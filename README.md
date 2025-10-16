@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang = 'vn'>
  <head>
-   <title>các chú chó tôi nuôi</title>
  </head>
  <body>
    <h2> cún cưng đầu tiên rất tài lanh </h2>
@@ -13,7 +12,7 @@
    
    <h2> chú cún này mỏ không hồi chiêu </h2>
    
-   <a href = ' https://www.facebook.com/pham.bao.956563 '> chó rách mang tên: </a>
+   <a href = 'https://www.facebook.com/pham.bao.956563'> chó rách mang tên: </a>
    
 </body>   
 </html>   
